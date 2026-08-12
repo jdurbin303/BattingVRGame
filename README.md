@@ -1,4 +1,4 @@
-# ⚾ At Bat — VR Baseball Batting
+# ⚾ At Bat — VR Batting Machine for Oculus Quest 2
 
 A room-scale VR batting game built in **Unity (C\#)** for the **Oculus Quest 2**: step into the box in a Coors Field environment and hit physics-accurate pitches. Built as my M.S. Computer Science graduate project (CU Denver) in Fall 2021\. 
 
